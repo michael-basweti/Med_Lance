@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830898901335",
+    "firebase_url": "https://medlance-f7ee6.firebaseio.com",
+    "project_id": "medlance-f7ee6",
+    "storage_bucket": "medlance-f7ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830898901335:android:495290434a566942",
+        "android_client_info": {
+          "package_name": "com.example.user.med_lance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830898901335-3n5rv29g823oks1soi9g12fa4f89r1ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.med_lance",
+            "certificate_hash": "2b86e205511efba7196a0a09adc4983a1b39752d"
+          }
+        },
+        {
+          "client_id": "830898901335-8lf5cpegf12sbioi29gahmuopcgrfqsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyHpSN-UrkspGk6lat03EDi5V0DY8y88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830898901335-8lf5cpegf12sbioi29gahmuopcgrfqsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
